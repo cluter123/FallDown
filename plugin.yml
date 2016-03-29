@@ -1,0 +1,8 @@
+main: me.cluter.falldown.Main
+name: FallDown
+version: 1.0
+author: cluter123
+
+commands:
+  fds:
+    description: Allows usage of the falldown plugin.
